@@ -16,7 +16,7 @@ from sklearn import preprocessing
 import pandas as pd
 import joblib
 from django.contrib import messages
-from keras import backend as K
+# from keras import backend as K
 
 # Create your views here.
 
