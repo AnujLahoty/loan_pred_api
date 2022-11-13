@@ -1,0 +1,15 @@
+2022-10-07 00:38:17.795 - INFO - 2408 - azureml.train.automl._local_managed_utils.is_docker_installed:354 - Docker is installed with Docker version 20.10.14, build a224086
+.
+2022-10-07 00:38:17.797 - INFO - 2408 - azureml.train.automl.automlconfig._start_execution:226 - Submitting remote.
+2022-10-07 00:59:04.334 - INFO - 2408 - azureml.train.automl.run._log_activity:55 - ActivityStarted: GetBestChild
+2022-10-07 00:59:04.378 - INFO - 2408 - azureml.train.automl.run._log_activity:55 - ActivityStarted: GetChildren
+2022-10-07 00:59:06.361 - INFO - 2408 - azureml.train.automl.run._log_activity:55 - ActivityStarted: GetChildren
+2022-10-07 01:09:04.755 - INFO - 2408 - azureml.train.automl.run._log_activity:89 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=598394.15[ms]
+2022-10-07 01:09:04.777 - INFO - 2408 - azureml.train.automl.run._log_activity:89 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=600399.78[ms]
+2022-10-07 01:09:06.849 - INFO - 2408 - azureml.train.automl.run._log_activity:89 - ActivityCompleted: Activity=GetBestChild, HowEnded=Success, Duration=602514.93[ms]
+2022-10-07 01:12:25.009 - INFO - 2408 - azureml.train.automl.run._log_activity:55 - ActivityStarted: GetBestChild
+2022-10-07 01:12:25.046 - INFO - 2408 - azureml.train.automl.run._log_activity:55 - ActivityStarted: GetChildren
+2022-10-07 01:12:27.029 - INFO - 2408 - azureml.train.automl.run._log_activity:55 - ActivityStarted: GetChildren
+2022-10-07 01:12:59.429 - INFO - 2408 - azureml.train.automl.run._log_activity:89 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=32399.46[ms]
+2022-10-07 01:12:59.431 - INFO - 2408 - azureml.train.automl.run._log_activity:89 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=34384.3[ms]
+2022-10-07 01:12:59.444 - INFO - 2408 - azureml.train.automl.run._log_activity:89 - ActivityCompleted: Activity=GetBestChild, HowEnded=Success, Duration=34434.3[ms]
